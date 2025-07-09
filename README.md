@@ -208,12 +208,3 @@ Steps
           
           Host PostgreSQL and Airflow on cloud (AWS/GCP/Azure)
           
-
-
-👨‍💼 About the Author
-
-Manish Bhattarai
-Data Engineer | Pythonista | BI EnthusiastGitHub: @manish3321LinkedIn: https://www.linkedin.com/in/manish-bhattarai-347497148/
-
-
->>>>>>> f431eb7 (Initial project commit)
