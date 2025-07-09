@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Ecommerce-Etl
 =======
 E-Commerce Sales Analytics Pipeline
